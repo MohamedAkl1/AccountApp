@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AccountApp</string>
+    <string name="facebook_app_id">185204895467796</string>
+    <string name="fb_login_protocol_scheme">fb185204895467796</string>
+    <string name="user_name">Name</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name:</string>
+    <string name="emails">Email:</string>
+    <string name="numbers">Number:</string>
+    <string name="address">Address:</string>
+    <string name="logout">Logout</string>
+</resources>
